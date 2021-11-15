@@ -22,3 +22,5 @@ for line in lines:
     if regex is not None:
         for match in regex:
             print("Example matched {0}".format(match))
+
+    print(" ")
